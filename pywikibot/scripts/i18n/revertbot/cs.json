@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matěj Grabovský",
+			"Dvorapa"
+		]
+	},
+	"revertbot-revert": "Robot: revertování stránky na revizi %(revid)s uživatele %(author)s z %(timestamp)s"
+}

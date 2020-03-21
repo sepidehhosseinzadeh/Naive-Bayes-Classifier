@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki",
+			"Srdjan m"
+		]
+	},
+	"noreferences-add-tag": "Bot: Dodavanje nedostajuće <references /> oznake.",
+	"noreferences-fix-tag": "Bot: Popravak neispravne sintakse za oznaku <references />"
+}

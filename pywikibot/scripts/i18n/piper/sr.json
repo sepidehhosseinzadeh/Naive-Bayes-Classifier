@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"piper-edit-summary": "Бот: чланак је пропуштен кроз %(filters)s."
+}

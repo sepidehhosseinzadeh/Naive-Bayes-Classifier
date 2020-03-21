@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"template-changing": "Robot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-removing": "Robot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-substituting": "Robot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s"
+}

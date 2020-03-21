@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"featured-featured": "Bot: %(page)s nabarmendutako artikulua da",
+	"featured-good": "Bot: %(page)s artikulu ona da"
+}

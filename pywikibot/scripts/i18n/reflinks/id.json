@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch",
+			"Ezagren",
+			"Xqt",
+			"Rachmat.Wahidi"
+		]
+	},
+	"reflinks-autogen": "hasilan otomatis",
+	"reflinks-comment": "Judul yang dihasilkan bot",
+	"reflinks-msg": "Bot: Mengubah referensi kosong, menggunakan nama referensi untuk menghindari duplikat, lihat [[%(manual)s|FAQ]]"
+}

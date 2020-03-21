@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCamer",
+			"Rubin16",
+			"Volkov",
+			"Xqt",
+			"Amire80"
+		]
+	},
+	"redirect-broken-redirect-template": "{{db-redirnone}}",
+	"redirect-fix-broken-moved": "Бот: исправление перенаправления на перемещенную целевую страницу %(to)s",
+	"redirect-fix-double": "Бот: исправление двойного перенаправления на %(to)s",
+	"redirect-fix-loop": "Бот: исправление зацикленного перенаправления на %(to)s",
+	"redirect-remove-broken": "Бот: [[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу",
+	"redirect-remove-loop": "Бот: цель перенаправления создаёт цикл"
+}

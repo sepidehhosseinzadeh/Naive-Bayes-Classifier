@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Spiffyk",
+			"Dvorapa"
+		]
+	},
+	"interwiki-adding": "Robot: přidání %(adding)s",
+	"interwiki-adding-modifying": "Robot: přidání %(adding)s; změna %(modifying)s",
+	"interwiki-adding-removing": "Robot: přidání %(adding)s; odebrání %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: přidání %(adding)s; odebrání %(removing)s; úprava %(modifying)s",
+	"interwiki-modifying": "Robot: úprava %(modifying)s",
+	"interwiki-modifying-from": "Robot: změna %(from)s na %(modifying)s",
+	"interwiki-removing": "Robot: odebrání %(removing)s",
+	"interwiki-removing-modifying": "Robot: odebrání %(removing)s; úprava %(modifying)s"
+}

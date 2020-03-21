@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"pagefromfile-msg": "Бот: аутоматизовани увоз чланака.",
+	"pagefromfile-msg_bottom": "додато на дну",
+	"pagefromfile-msg_force": "постојећи текст преснимљен",
+	"pagefromfile-msg_top": "додато на врху"
+}

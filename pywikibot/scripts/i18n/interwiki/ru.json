@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volkov",
+			"Amire80"
+		]
+	},
+	"interwiki-adding": "Бот: добавлено %(adding)s",
+	"interwiki-adding-modifying": "Бот: добавлено %(adding)s; изменено %(modifying)s",
+	"interwiki-adding-removing": "Бот: добавлено %(adding)s; удалено %(removing)s",
+	"interwiki-adding-removing-modifying": "Бот: добавлено %(adding)s; удалено %(removing)s; изменено %(modifying)s",
+	"interwiki-modifying": "Бот: изменено %(modifying)s",
+	"interwiki-modifying-from": "Бот: изменено с %(from)s на %(modifying)s",
+	"interwiki-removing": "Бот: удалено %(removing)s",
+	"interwiki-removing-modifying": "Бот: удалено %(removing)s; изменено %(modifying)s"
+}

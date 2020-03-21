@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki",
+			"Otokoume"
+		]
+	},
+	"featured-featured": "ボットによる: 秀逸な記事「%(page)s」へのリンク",
+	"featured-former": "ボットによる: 「%(page)s」はかつて秀逸な記事でした",
+	"featured-good": "ボットによる: 良質な記事「%(page)s」へのリンク",
+	"featured-list": "ボットによる: 秀逸な一覧「%(page)s」へのリンク"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"misspelling-fixing": "Бот: исправљена погрешно написана веза до странице %(page)s."
+}

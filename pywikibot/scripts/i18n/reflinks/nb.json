@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu",
+			"SuperPotato"
+		]
+	},
+	"reflinks-autogen": "autogenerert",
+	"reflinks-comment": "Botgenerert tittel",
+	"reflinks-msg": "Robot: Konverterer nakne referanser ved å bruke referansenavn for å unngå duplikater, se [[%(manual)s|OSS]]"
+}

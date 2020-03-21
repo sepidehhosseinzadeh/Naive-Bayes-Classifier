@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Spiffyk",
+			"Dvorapa"
+		]
+	},
+	"welcome-bad_username": "Robot: přidání uživatelského jména, které je potřeba zkontrolovat",
+	"welcome-updating": "Robot: aktualizace logu",
+	"welcome-welcome": "Vítejte!"
+}

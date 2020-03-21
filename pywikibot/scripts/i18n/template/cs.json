@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matěj Suchánek",
+			"Spiffyk",
+			"Vks",
+			"Dvorapa"
+		]
+	},
+	"template-changing": "Robot: úprava {{PLURAL:%(num)d|šablony|šablon}}: %(list)s",
+	"template-removing": "Robot: odstranění {{PLURAL:%(num)d|šablony|šablon}}: %(list)s",
+	"template-substituting": "Robot: nahrazení {{PLURAL:%(num)d|šablony|šablon}}: %(list)s"
+}

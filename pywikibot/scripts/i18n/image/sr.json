@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"image-remove": "Бот: уклоњена датотека %(file)s.",
+	"image-replace": "Бот: датотека %(old)s је замењена са %(new)s."
+}

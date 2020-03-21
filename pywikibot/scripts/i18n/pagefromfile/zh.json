@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"pagefromfile-msg": "机器人：自动导入条目",
+	"pagefromfile-msg_bottom": "附加到底部",
+	"pagefromfile-msg_force": "现有文本覆盖",
+	"pagefromfile-msg_top": "附加到顶部"
+}

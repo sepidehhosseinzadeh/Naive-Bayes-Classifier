@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali",
+			"Kumkumuk"
+		]
+	},
+	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
+	"category-also-in": "(kategori da %(alsocat)s esto)",
+	"category-changing": "Bot: namey Kategoriya %(oldcat)s,ra berd %(newcat)s",
+	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
+	"category-removing": "Bot: %(oldcat)s ra dariyeno we",
+	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",
+	"category-replacing": "Bot: Kategoriya %(oldcat)s be %(newcat)s ra vuriyena",
+	"category-section-title": "Werênayışê pela da %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: Seba karo biyaye ra şablonanê CFD wedare",
+	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
+	"category-was-disbanded": "Boti karkerdışe kategori qedina",
+	"category-was-moved": "Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê"
+}

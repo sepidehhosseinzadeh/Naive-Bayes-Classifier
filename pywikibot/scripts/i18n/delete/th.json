@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero",
+			"Octahedron80"
+		]
+	},
+	"delete-from-category": "บอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s",
+	"delete-from-file": "บอต: ลบรายชื่อหน้า",
+	"delete-images": "บอต: ลบรูปภาพทั้งหมดในหน้า %(page)s",
+	"delete-linked-pages": "บอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s",
+	"delete-referring-pages": "บอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s"
+}

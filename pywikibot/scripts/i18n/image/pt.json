@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leonardo Gregianin",
+			"Vitorvicentevalente"
+		]
+	},
+	"image-remove": "Robô: A alterar imagem %(file)s",
+	"image-replace": "Robô: A alterar imagem %(old)s para %(new)s"
+}

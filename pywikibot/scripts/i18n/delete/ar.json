@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25",
+			"Zaher kadour",
+			"ديفيد"
+		]
+	},
+	"delete-from-category": "بوت - حذف كل الصفحات من التصنيف %(page)s",
+	"delete-from-file": "بوت: حذف قائمة من الصفحات.",
+	"delete-images": "بوت: حذف كل الصور في الصفحة %(page)s",
+	"delete-linked-pages": "بوت: حذف كل الصفحات الموصولة من %(page)s",
+	"delete-referring-pages": "بوت: حذف كل الصفحات الراجعة من %(page)s"
+}

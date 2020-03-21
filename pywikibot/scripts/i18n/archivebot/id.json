@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"Farras",
+			"Ezagren",
+			"Xqt",
+			"Rachmat.Wahidi"
+		]
+	},
+	"archivebot-archive-full": "(ARSIP PENUH)",
+	"archivebot-archive-summary": "Bot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]].",
+	"archivebot-older-than": "lebih lama dari %(duration)s",
+	"archivebot-page-summary": "Bot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s."
+}

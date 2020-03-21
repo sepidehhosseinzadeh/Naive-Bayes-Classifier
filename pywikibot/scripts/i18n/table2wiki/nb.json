@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt",
+			"SuperPotato"
+		]
+	},
+	"table2wiki-no-warning": "Bruker-styrede robot: Konverter tabellsyntaks",
+	"table2wiki-warnings": "Bruker-styrede robot: Konverterer tabellsyntaks – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!"
+}

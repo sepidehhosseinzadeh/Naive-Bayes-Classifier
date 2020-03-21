@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras",
+			"Rachmat.Wahidi"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Membuat pengalihan ke [[%(to)s]]"
+}

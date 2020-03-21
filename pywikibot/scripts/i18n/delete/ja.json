@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki",
+			"Otokoume"
+		]
+	},
+	"delete-from-category": "ボットによる: カテゴリ「%(page)s」にあるページをすべて削除",
+	"delete-from-file": "ボットによる: ページのリストを削除",
+	"delete-images": "ボットによる: ページ「%(page)s」上の画像をすべて削除",
+	"delete-linked-pages": "ボットによる: 「%(page)s」からリンクされているページをすべて削除",
+	"delete-referring-pages": "ボットによる: 「%(page)s」を参照しているページをすべて削除"
+}

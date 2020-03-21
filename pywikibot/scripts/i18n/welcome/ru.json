@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volkov",
+			"Amire80"
+		]
+	},
+	"welcome-bad_username": "Бот: добавлено подозрительное имя участника",
+	"welcome-updating": "Бот: обновление журнала",
+	"welcome-welcome": "Добро пожаловать!"
+}

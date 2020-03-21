@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu",
+			"Jon Harald Søby",
+			"SuperPotato"
+		]
+	},
+	"delete-from-category": "Robot: Sletter alle sider i kategorien %(page)s",
+	"delete-from-file": "Robot: Sletter en liste over sider.",
+	"delete-images": "Robot: Sletter alle bilder på siden %(page)s",
+	"delete-linked-pages": "Robot: Sletter alle sider som lenkes fra %(page)s",
+	"delete-referring-pages": "Robot: Sletter alle sider som lenker til %(page)s"
+}

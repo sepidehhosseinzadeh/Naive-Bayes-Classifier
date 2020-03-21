@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"makecat-create": "Бот: направљена или ажурирана категорија [[:Category:%(cat)s|]]."
+}

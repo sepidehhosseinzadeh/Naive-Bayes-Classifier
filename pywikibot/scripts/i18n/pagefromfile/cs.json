@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Juandev",
+			"Dvorapa"
+		]
+	},
+	"pagefromfile-msg": "Robot: automatizované nahrání stránek",
+	"pagefromfile-msg_bottom": "připojit dole",
+	"pagefromfile-msg_force": "stávající text přepsán",
+	"pagefromfile-msg_top": "připojit nahoře"
+}

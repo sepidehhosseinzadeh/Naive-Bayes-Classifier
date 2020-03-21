@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras",
+			"Volkov",
+			"Amire80"
+		]
+	},
+	"delete-from-category": "Бот: удаление всех страниц из категории %(page)s",
+	"delete-from-file": "Бот: удаление списка страниц",
+	"delete-images": "Бот: удаление всех изображений на странице %(page)s",
+	"delete-linked-pages": "Бот: удаление всех страниц, связанных с %(page)s",
+	"delete-referring-pages": "Бот: удаление всех страниц, относящихся к %(page)s"
+}

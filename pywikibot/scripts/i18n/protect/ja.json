@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"Otokoume"
+		]
+	},
+	"protect-category": "ボットによる: カテゴリ「%(cat)s」にあるページをすべて保護",
+	"protect-images": "ボットによる: ページ「%(page)s」上の画像をすべて保護",
+	"protect-links": "ボットによる: 「%(page)s」からリンクされているページをすべて保護",
+	"protect-ref": "ボットによる: 「%(page)s」を参照しているページをすべて保護",
+	"protect-simple": "ボットによる: ファイルのリストを保護"
+}

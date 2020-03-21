@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr",
+			"Danmichaelo",
+			"SuperPotato"
+		]
+	},
+	"noreferences-add-tag": "Robot: Legger til manglende <references />-element",
+	"noreferences-fix-tag": "Robot: Korrigerer <references />-syntaks"
+}

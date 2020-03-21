@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatus",
+			"Volkov",
+			"Amire80"
+		]
+	},
+	"ndashredir-create": "Бот: создание перенаправления с дефисом на [[%(title)s]]"
+}

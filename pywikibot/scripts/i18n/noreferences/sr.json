@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"noreferences-add-tag": "Бот: додата одсутна ознака <references />.",
+	"noreferences-fix-tag": "Бот: исправљена погрешна синтакса ознаке <references />."
+}

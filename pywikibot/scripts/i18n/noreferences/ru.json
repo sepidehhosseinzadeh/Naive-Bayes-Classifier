@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volkov",
+			"Okras",
+			"Amire80"
+		]
+	},
+	"noreferences-add-tag": "Бот: добавил отсутствующий тег <references />",
+	"noreferences-fix-tag": "Бот: Исправление неверного синтаксиса у <references />"
+}

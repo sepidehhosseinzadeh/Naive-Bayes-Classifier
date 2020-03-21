@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bellayet",
+			"Nasir8891",
+			"Xqt",
+			"Aftabuzzaman"
+		]
+	},
+	"archivebot-archive-full": "(আর্কাইভ পূর্ণ)",
+	"archivebot-archiveheader": "{{আলোচনার সংগ্রহশালা}}",
+	"archivebot-older-than": "%(duration)s ছেয়ে বেশি পুরাতন"
+}

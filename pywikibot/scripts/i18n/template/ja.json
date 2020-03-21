@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki",
+			"Otokoume"
+		]
+	},
+	"template-changing": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を変更: %(list)s",
+	"template-removing": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を除去: %(list)s",
+	"template-substituting": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を展開: %(list)s"
+}

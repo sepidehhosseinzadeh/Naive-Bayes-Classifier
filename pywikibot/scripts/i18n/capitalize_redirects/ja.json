@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"capitalize_redirects-create-redirect": "ボットによる: 「[[%(to)s]]」へのリダイレクト作成"
+}

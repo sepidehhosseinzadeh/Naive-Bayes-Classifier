@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"XXN",
+			"Strainu"
+		]
+	},
+	"pagefromfile-msg": "Robot: importare automată de articole",
+	"pagefromfile-msg_bottom": "adăugare la sfârșit",
+	"pagefromfile-msg_force": "textul existent suprascris",
+	"pagefromfile-msg_top": "adăugare la început"
+}

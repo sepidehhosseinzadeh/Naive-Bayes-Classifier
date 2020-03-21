@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"delete-from-category": "Bot: %(page)s kategoriako orrialde guztiak ezabatzen",
+	"delete-from-file": "Bot: Orrialde-zerrenda bat ezabatzen.",
+	"delete-images": "Bot: %(page)s orrialdeko irudi guztiak ezabatzen"
+}

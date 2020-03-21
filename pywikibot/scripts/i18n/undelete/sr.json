@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"undelete-from-file": "Бот: враћен списак страница.",
+	"undelete-images": "Бот: враћене све слике на страници %(page)s.",
+	"undelete-linked-pages": "Бот: враћене све странице повезане са %(page)s."
+}
